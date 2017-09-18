@@ -4,4 +4,10 @@ This is going for second commit.
 
 Some text here.
 
-Some more text as per suggestion of JYOTI. changed by vivek
+
+Some more text as per suggestion of JYOTI.
+
+Rajiv made Vivek as a collaborator.
+
+commented by vivek
+
